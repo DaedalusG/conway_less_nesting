@@ -1,0 +1,1 @@
+This is a proof of concept application to try and improve the run time of my conways game of life generation algorithm. It is meant for local deployment and to be run with live server.# conway_less_nesting
